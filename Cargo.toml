@@ -1,0 +1,8 @@
+[package]
+name = "pas"
+version = "0.1.0"
+authors = ["Fariz Rizaldy <fariz@evilfactory.id>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7"
